@@ -22,3 +22,5 @@ Resultado salvo em arquivo.txt
 ```
 
 Por fim, o usuário digita o padrão que deseja buscar e será criado um arquivo final **arquivo.txt**
+
+Alunos: Willian Reinaldo, Francisco Paulino
